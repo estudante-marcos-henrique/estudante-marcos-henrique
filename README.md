@@ -1,16 +1,17 @@
-## Hi there 👋
+**Bem-vindo a meu incrível perfil aqui no GitHub!**
 
-<!--
-**estudante-marcos-henrique/estudante-marcos-henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcos! :🥇::
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](http://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou no ensino médio
+
+-Esse perfil está sendo usado para meu apredizado e compartilhamento de projetos!
+
+---
+
+Entre em contato! (ou não)
+
+-(não deixarei meu @gmail aqui por enquanto kkkkkkkkk)
+
+
